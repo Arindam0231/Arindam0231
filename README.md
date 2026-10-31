@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Here are drafts for your GitHub profile README, based on your resume. I've kept the tone friendly and specific so they read like you, not a template.<br><br>**👨‍💻 I'm currently working on**<br>Agentic AI systems at UBS: a LangGraph platform that builds PPNR models from plain-English prompts by walking Excel dependencies, and a workforce-planning platform (React + FastAPI + LangGraph) used by senior leadership. On the side, I'm building **CiteMind**, a multi-agent system that reconciles PowerPoint claims against Excel data with a full audit trail back to the source cell.<br><br>**🤝 I'm looking to collaborate on**<br>Open-source agentic AI projects, especially around LangGraph, MCP servers, and human-in-the-loop workflows. I'd also love to team up on tools that connect LLMs with messy real-world data like spreadsheets, decks, and finance documents.<br><br>**🙋 I'm looking for help with**<br>- Evaluating and testing multi-agent workflows (reliability, regression testing, LangSmith-style tracing)<br>- Scaling agent systems to production with Kubernetes and AWS, while keeping latency and cost under control<br>- Better approaches to RAG over structured and semi-structured data like Excel<br><br>**🌱 I'm currently learning**<br>AWS Certified Solutions Architect – Professional, building on my Associate certification.<br><br>**💬 Ask me about**<br>LangGraph and agent design, human-in-the-loop patterns, building LLM tools for finance teams, FastAPI + React full-stack apps, LLM fine-tuning (PEFT, 8-bit quantization, DeepSpeed ZeRO-2), and how to go from an Excel-based process to an automated pipeline.<br><br>**⚡ Fun fact**<br>I turned a forecast reconciliation process that took 8 days into one that takes 4 hours, and a hackathon-style idea I pitched at UBS won the iFit Innovation Tournament and became an actual platform (Analyze). Pitching it also earned me the iScale Innovation Award.<br><br>A few notes:<br>- Your resume doesn't include personal hobbies, so I based the fun fact on a career story. If you'd like something more personal (a game you love, a travel story, a food obsession), send it over and I'll rewrite it.<br>- If you want a more casual voice, I can add emojis and a bit of humor, or make it more formal for LinkedIn.
 
-<!--
-**Arindam0231/Arindam0231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arindam-ghosal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arindam027g@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Arindam0231&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Arindam0231&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arindam0231&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Arindam0231&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
